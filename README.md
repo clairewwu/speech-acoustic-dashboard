@@ -367,4 +367,4 @@ openpyxl>=3.1.0
 ## 線上展示
 
 本專案已部署於 Streamlit Community Cloud，可直接透過以下連結操作儀表板：
-[開啟 Dashboard](你的部署網址)
+[開啟 Dashboard](https://speech-acoustic-dashboard-claire-project.streamlit.app/)
